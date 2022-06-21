@@ -1,4 +1,6 @@
-<h4>Este script tem como objetivo controlar um fita/módulo de LED RGB via Bluetooth, utilizando o microcontrolador ESP32.</h4>
+# Controlador LED RGB via Bluetooth utilizando ESP32
+
+Este script tem como objetivo controlar um fita/módulo de LED RGB via Bluetooth, utilizando o microcontrolador ESP32<br>
 
 <b>Materiais utilizados:</b>
 <br style="margin-left:3px;">1 - Microcontrolador ESP32
@@ -14,9 +16,11 @@
 
 Para mais detalhes segue o link do video tutorial: https://www.youtube.com/watch?v=B5cCDuziOh5
 
-// -------------------------------------------------------------------------------------------------------------------- //
+<hr>
 
-<h4>This script aims to control an RGB LED strip/module via Bluetooth, using the ESP32 microcontroller.</h4>
+# RGB LED controller via Bluetooth using ESP32
+
+This script aims to control an RGB LED strip/module via Bluetooth, using the ESP32 microcontroller<br>
 
 <b>Materials used:</b>
 <br style="margin-left:3px;">1 - ESP32 microcontroller
