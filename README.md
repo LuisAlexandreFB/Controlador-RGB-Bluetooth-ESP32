@@ -14,7 +14,7 @@ Este script tem como objetivo controlar um fita/módulo de LED RGB via Bluetooth
 <b>Aplicativo Android para controlar e comunicar com o microcontrolador:</b>
 <br style="margin-left:3px;">Color LED Controller (https://play.google.com/store/apps/details?id=appinventor.ai_yuanryan_chen.BT_LED&hl=pt_BR)
 
-Para mais detalhes segue o link do video tutorial: https://www.youtube.com/watch?v=B5cCDuziOh5
+Para mais detalhes segue o link do video tutorial: https://www.youtube.com/watch?v=B5cCDuziOh4
 
 <hr>
 
@@ -34,4 +34,4 @@ This script aims to control an RGB LED strip/module via Bluetooth, using the ESP
 <b>Android application to control and communicate with the microcontroller:</b>
 <br style="margin-left:3px;">Color LED Controller (https://play.google.com/store/apps/details?id=appinventor.ai_yuanryan_chen.BT_LED)
 
-For more details follow the video tutorial link: https://www.youtube.com/watch?v=B5cCDuziOh5
+For more details follow the video tutorial link: https://www.youtube.com/watch?v=B5cCDuziOh4
