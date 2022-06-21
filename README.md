@@ -1,33 +1,33 @@
-<p>Este script tem como objetivo controlar um fita/módulo de LED RGB via Bluetooth, utilizando o microcontrolador ESP32.</p>
+<h4>Este script tem como objetivo controlar um fita/módulo de LED RGB via Bluetooth, utilizando o microcontrolador ESP32.</h4>
 
 <b>Materiais utilizados:</b>
-<br><p>1 - Microcontrolador ESP32</p>
-<br><p>1 - Módulo LED RGB</p>
-<br><p>3 - Transistores BC547</p>
-<br><p>3 - Resistores 1K Ohm</p>
-<br><p>* - Jumpers e Protobord</p>
-<br><p>1 - Fonte 12 voltz</p>
-<br><p>1 - Fonte 5 voltz</p>
+<br><h5>1 - Microcontrolador ESP32</h5>
+<br><h5>1 - Módulo LED RGB</h5>
+<br><h5>3 - Transistores BC547</h5>
+<br><h5>3 - Resistores 1K Ohm</h5>
+<br><h5>* - Jumpers e Protobord</h5>
+<br><h5>1 - Fonte 12 voltz</h5>
+<br><h5>1 - Fonte 5 voltz</h5>
 
-<b><p>Aplicativo Android para controlar e comunicar com o microcontrolador:</p></b>
-<br><p>Color LED Controller (https://play.google.com/store/apps/details?id=appinventor.ai_yuanryan_chen.BT_LED&hl=pt_BR)</p>
+<b><h5>Aplicativo Android para controlar e comunicar com o microcontrolador:</h5></b>
+<br><h5>Color LED Controller (https://play.google.com/store/apps/details?id=appinventor.ai_yuanryan_chen.BT_LED&hl=pt_BR)</h5>
 
-<p>Para mais detalhes segue o link do video tutorial: https://www.youtube.com/watch?v=B5cCDuziOh4</p>
+<h5>Para mais detalhes segue o link do video tutorial: https://www.youtube.com/watch?v=B5cCDuziOh5</h5>
 
 // -------------------------------------------------------------------------------------------------------------------- //
 
-<p>This script aims to control an RGB LED strip/module via Bluetooth, using the ESP32 microcontroller.</p>
+<h4>This script aims to control an RGB LED strip/module via Bluetooth, using the ESP32 microcontroller.</h4>
 
 <b>Materials used:</b>
-<br><p>1 - ESP32 microcontroller</p>
-<br><p>1 - RGB LED module</p>
-<br><p>3 - BC547 transistors</p>
-<br><p>3 - 1K Ohm resistors</p>
-<br><p>* - Jumpers and Protobord</p>
-<br><p>1 - 12 volt source</p>
-<br><p>1 - 5 volt source</p>
+<br><h5>1 - ESP32 microcontroller</h5>
+<br><h5>1 - RGB LED module</h5>
+<br><h5>3 - BC547 transistors</h5>
+<br><h5>3 - 1K Ohm resistors</h5>
+<br><h5>* - Jumpers and Protobord</h5>
+<br><h5>1 - 12 volt source</h5>
+<br><h5>1 - 5 volt source</h5>
 
-<b><p>Android application to control and communicate with the microcontroller:</p></b>
-<br><p>Color LED Controller (https://play.google.com/store/apps/details?id=appinventor.ai_yuanryan_chen.BT_LED)</p>
+<b><h5>Android application to control and communicate with the microcontroller:</h5></b>
+<br><h5>Color LED Controller (https://play.google.com/store/apps/details?id=appinventor.ai_yuanryan_chen.BT_LED)</h5>
 
-<p>For more details follow the video tutorial link: https://www.youtube.com/watch?v=B5cCDuziOh4</p>
+<h5>For more details follow the video tutorial link: https://www.youtube.com/watch?v=B5cCDuziOh5</h5>
